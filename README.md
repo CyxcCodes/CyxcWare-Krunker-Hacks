@@ -1,2 +1,3 @@
-# CyxcWare-Krunker-Hacks
-another piece of software homework :)
+HELLO FRIENDS,
+read the license before downloading,
+only works with tmp
